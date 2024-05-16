@@ -216,7 +216,7 @@
   </table>
 	</div>
 <div class="hr"><hr>
-<p>2020 - Sneakers<sup>Shop</sup> | Hak cipta dilindungi undang-undang</p>
+<p>2020 - Sneakers<sup>Shop</sup> | Created by Maharani_</p>
 </div>
 </div>
         
