@@ -1,2 +1,5 @@
-# tokoo
-Online Shop Website for Sneakers using Codeigniter 3.1
+# Toko Sneakers
+### Online Shop Website for Sneakers
+![Generic badge](https://img.shields.io/badge/build-done-<COLOR>.svg)
+
+Using CodeIgniter 3
